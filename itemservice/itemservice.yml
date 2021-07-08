@@ -21,7 +21,7 @@ server:
 
 eureka:
   instance:
-    perferIpAddress: true
+    preferIpAddress: true
   client:
     registerWithEureka: true
     fetchRegistry: true
